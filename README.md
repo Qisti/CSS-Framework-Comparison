@@ -1,7 +1,7 @@
 # CSS-Framework-Comparison
 
 
-   Sebelum mengkomparansi ada baiknya kita mengetahui dulu apa itu Bootstrap, Foundation, dan Tailwind. 
+   Sebelum mengkomparasi ada baiknya kita mengetahui dulu apa itu Bootstrap, Foundation, dan Tailwind. 
    
 ## Bootstrap   
   Bootstrap adalah sebuah framework css yang dapat digunakan untuk mempermudah membangun tampilan web. Bootstrap pertama kali di kembangkan pada pertangahan 2010 di Twitter oleh Mark Otto dan Jacob Thornton. Saat ini Bootstrap dikembangkan secara open source dengan lisensi MIT. 
